@@ -1,0 +1,17 @@
+{
+	"name": "Wordomania",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Displays word on popup",
+	"icons": {
+		"16": "images/W.png",
+		"48": "images/W.png",
+		"128": "images/W.png"
+	},
+	"permissions": [
+		"activeTab"
+	],
+	"browser_action": {
+		"default_popup": "popup.html"
+	}
+}

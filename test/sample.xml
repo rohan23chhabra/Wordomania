@@ -1,0 +1,25 @@
+<entry id="hypocrite">
+    <ew>hypocrite</ew>
+    <hw>hyp*o*crite</hw>
+    <sound>
+        <wav>hypocr02.wav</wav>
+    </sound>
+    <pr>ˈhi-pə-ˌkrit</pr>
+    <fl>noun</fl>
+    <et>Middle English <it>ypocrite,</it> from Anglo-French, from Late Latin <it>hypocrita,</it> from Greek <it>
+        hypokritēs
+    </it> actor, hypocrite, from <it>hypokrinesthai</it>
+    </et>
+    <def>
+        <date>13th century</date>
+        <sn>1</sn>
+        <dt>:a person who puts on a false appearance of <d_link>virtue</d_link> or religion
+        </dt>
+        <sn>2</sn>
+        <dt>:a person who acts in contradiction to his or her stated beliefs or feelings</dt>
+    </def>
+    <uro>
+        <ure>hypocrite</ure>
+        <fl>adjective</fl>
+    </uro>
+</entry>
